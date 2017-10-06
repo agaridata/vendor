@@ -1,0 +1,5 @@
+com.kw
+net.kw
+org.kw
+gov.kw
+ind.kw
